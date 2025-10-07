@@ -91,7 +91,7 @@ img{
 }
 
 .about h1{
-    color: #F5EE84;
+    color: #03045E;
     font-size: 4rem;
     padding-bottom: 30px;
 }
@@ -110,7 +110,7 @@ img{
 }
 
 .work-into h1 {
-    color: #F5EE84;
+    color: #03045E;
     font-size: 4rem;
 }
 
@@ -179,7 +179,7 @@ img{
 }
 
 .contact h1{
-    color: #F5EE84;
+    color: #03045E;
     font-size: 4rem;
     margin-bottom: 15px;
 }
@@ -197,4 +197,5 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
